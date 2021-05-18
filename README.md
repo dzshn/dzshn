@@ -5,7 +5,7 @@
 <p align="center">hi</p>
 
 <p align="center">
-  <a href="dzshn.xyz">dzshn.xyz</a> ·
+  <a href="https://dzshn.xyz">dzshn.xyz</a> ·
   <a href="mailto:zshn@pm.me">zshn@pm.me</a>
 </p>
 
