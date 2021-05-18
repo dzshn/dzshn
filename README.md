@@ -23,3 +23,4 @@
 ![event](https://img.shields.io/badge/dynamic/json?color=333&label=last+event&query=0.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdzshn%2Fevents&style=flat-square)
 ![tests](https://img.shields.io/badge/tests-0_✔_|_483_✘-f42535?style=flat-square)
 ![checks](https://img.shields.io/badge/checks-12_pending-e4a530?style=flat-square)
+<a href="https://stuff.dzshn.xyz/pain"><img src="umarucryjpg.png" align="left"></a>
