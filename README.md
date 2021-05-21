@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dzshn&theme=dark&bg_color=00000040&border_color=fed3ea&show_icons=true&hide_title=true&include_all_commits=true&disable_animations=true&count_private=true&hide_rank=true&line_height=20&icon_color=fed3ea" alt="Github stats">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dzshn&theme=dark&bg_color=000000a0&border_color=fed3ea&text_color=fff&show_icons=true&hide_title=true&include_all_commits=true&disable_animations=true&count_private=true&hide_rank=true&line_height=20&icon_color=fed3ea" alt="Github stats">
 
 <br> <br>
 
@@ -11,7 +11,7 @@
 
 <br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dzshn&theme=dark&bg_color=00000040&border_color=fed3ea&layout=compact&hide_title=true&langs_count=10" alt="Github stats">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dzshn&theme=dark&bg_color=000000a0&border_color=fed3ea&text_color=fff&layout=compact&hide_title=true&langs_count=10" alt="Github stats">
 
 <br>  <br>  <br>  <br>  <br>  <br>
 ---
