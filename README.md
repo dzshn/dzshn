@@ -2,7 +2,7 @@
 
 <p align="center">
   toki! <br>
-  <a href="https://dzshn.xyz">dzshn.xyz</a> · <a href="mailto:zshn@pm.me">zshn@pm.me</a>
+  <a href="https://dzshn.xyz">dzshn.xyz</a> · <a href="mailto:zshn@pm.me">me@dzshn.xyz</a>
 </p>
 
 <br> <br> <br> <br> <br>
